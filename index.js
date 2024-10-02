@@ -160,4 +160,4 @@ bot.on("message", message => {
     }
 });
 
-bot.login("Token");
+bot.login("MTI5MDQzMzExNDY4NjA5OTU0OA.G-x9iZ.EZp7rleeV93dM8uhItJk9tdRpDrzC_w9X5bNHA");
